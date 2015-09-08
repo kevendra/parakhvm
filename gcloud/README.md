@@ -6,5 +6,3 @@ $ gcloud auth login
 $ gcloud components update app
 $ gcloud config set project parakhvm
 
-
-kuljad14@gmail.com
